@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://bghoang.github.io/baohoang/
   - title: "Projects"
     url: /projects/
     # - title: "Sample Collections"
