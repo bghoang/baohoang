@@ -107,20 +107,20 @@ analytics:
 # Site Author
 author:
   name: "Bao Hoang"
-  avatar: "/assets/images/bio_pic.jpg"
+  avatar: "./assets/images/bio_pic.JPG"
   bio: "Student at University of California San Diego"
   location: "San Diego, CA"
-  email:
+  email: "hgbao2013@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:hgbao2013@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://bghoang.github.io/baohoang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/bghoang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
