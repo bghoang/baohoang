@@ -108,7 +108,7 @@ analytics:
 author:
   name: "Bao Hoang"
   avatar: "./assets/images/bio_pic.JPG"
-  bio: "Student at University of California San Diego"
+  bio: "Student at UC San Diego"
   location: "San Diego, CA"
   email: "hgbao2013@gmail.com"
   links:
@@ -262,3 +262,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
