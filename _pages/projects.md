@@ -2,6 +2,7 @@
 layout: archive
 title: "Projects"
 permalink: /project/
+author_profile: true
 header:
   image: "/assets/images/headerphoto.jpg"
 ---
